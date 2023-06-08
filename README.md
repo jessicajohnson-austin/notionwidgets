@@ -1,2 +1,2 @@
 # notionwidgets
-notion-quote-widget
+notion-greeting-widget
